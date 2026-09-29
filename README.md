@@ -42,10 +42,3 @@ or open `week1_preprocessing.ipynb`.
 
 ## Result / caveat
 The logistic regression gets 0.64 accuracy on the test set, which is slightly *below* the 0.67 you'd get by always predicting "stayed". That's fine for this task: the data is synthetic with weak patterns, and the model is only there to show the processed data works end to end. The point of the week is the preprocessing, not the model.
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AhmadAltamash/Week-1-Task-Machine-Learning.git
-git push -u origin main
